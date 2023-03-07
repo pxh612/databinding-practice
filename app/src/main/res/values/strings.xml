@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">pxh612-viewmodel-practice</string>
+    <string name="username">Pham Xuan Huy</string>
+    <string name="bio">"This codelab is part of the Android Kotlin Fundamentals course. You'll get the most value out of this course if you work through the codelabs in sequence. All the course codelabs are listed on the Android Kotlin Fundamentals codelabs landing page.
+What you should already know
+
+    Creating a basic Android app in Kotlin.
+    Running an Android app on an emulator or on a device.
+    The basics of LinearLayout.
+    Creating a simple app that uses LinearLayout and a TextView.
+
+What you'll learn
+
+    How to work with View and ViewGroup.
+    How to arrange views in an Activity, using LinearLayout.
+    How to use ScrollView for displaying the scrollable content.
+    How to change the visibility of a View.
+    How to create and use string and dimension resources.
+    How to create a LinearLayout using Android Studio's Layout Editor.
+
+What you'll do
+
+    Create the AboutMe app.
+    Add a TextView to the layout to display your name.
+    Add an ImageView.
+    Add a ScrollView to display scrollable text."
+    </string>
+    <string name="what_is_your_nickname">Enter your nickname</string>
+    <string name="done">SUBMIT</string>
+</resources>
